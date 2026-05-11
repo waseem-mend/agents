@@ -72,7 +72,7 @@ langchain-chroma==0.1.2
 langchain-community==0.2.10
 langchain-core==0.2.26
 langchain-openai==0.1.19
-langchain-text-splitters==0.2.2
+langchain-text-splitters==1.1.2
 langchainhub==0.1.20
 langgraph==0.1.17
 langsmith==0.1.94
