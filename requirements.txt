@@ -18,7 +18,7 @@ charset-normalizer==3.3.2
 chroma-hnswlib==0.7.6
 chromadb==0.5.5
 ckzg==1.0.2
-click==8.1.7
+click==8.3.3
 coloredlogs==15.0.1
 cytoolz==0.12.3
 dataclasses-json==0.6.7
