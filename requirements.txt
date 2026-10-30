@@ -89,7 +89,7 @@ mypy-extensions==1.0.0
 newsapi-python==0.2.7
 nodeenv==1.9.1
 numpy==1.26.4
-oauthlib==3.2.2
+oauthlib==4.0.0
 onnxruntime==1.18.1
 openai==1.37.1
 opentelemetry-api==1.26.0
